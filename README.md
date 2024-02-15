@@ -1,3 +1,3 @@
 # To-Do-List-Motion-Cut
 
-Deployment - http://127.0.0.1:5500/index.html
+Deployment - https://arnavv44o.github.io/To-Do-List-Motion-Cut/
